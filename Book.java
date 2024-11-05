@@ -1,5 +1,3 @@
-package Day10;
-
 public class Book {
     String name;
     Genre genre;
@@ -7,5 +5,5 @@ public class Book {
 }
 
 enum Genre {
-    
+
 }
